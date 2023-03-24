@@ -1,4 +1,4 @@
-# Enhancing Policy Transfer to Accelrate Reinforcement Learning-based RAN Slicing (TL4RL)
+# Accelerating Reinforcement Learning via Predictive Policy Transfer in 6G RAN Slicing (TL4RL)
 
 This project is part of my PhD thesis. I use the problem of resource allocation in Radio Access Network (RAN) slicing to evaluate the potential of using transfer learning to accelerate DRL-based RRM. We mainly focus on acceleration when a mobile network operator (MNO) changes the priorities of fulfilling the service level agreements (SLAs) of the available slices. This can be applied by changing the weights of the reward function. 
 
